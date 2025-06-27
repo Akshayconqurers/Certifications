@@ -46,6 +46,9 @@ Core Team Member (3rd Year) – Actively contributed to planning and executing t
 Treasurer, IEEE (Current) – Managing financial operations and budgeting for IEEE events and initiatives.
 Vice-Chairperson, IEEE PES Society (Current) – Leading projects focused on power and energy systems, promoting technical growth and sustainability.
 
+-> FULL STACK DEVELOPMENT: MERN 
+Completed a Full Stack Development Masterclass with hands-on training in React, Node.js, Express, and MongoDB. Built Code Marathon, a hackathon platform using the MERN stack. The project enhanced my skills in API development, responsive UI, and cloud deployment, providing strong exposure to real-world full-stack application development.
+
 
 
 🌟 Highlights
